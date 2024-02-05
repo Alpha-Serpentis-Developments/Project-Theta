@@ -1,0 +1,52 @@
+{
+  "chainToToken": {
+    "1": {
+      "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "symbol": "WETH",
+        "equivalent": ["1:ETH"],
+        "logoUrl": "https://icons.llama.fi/chains/rsz_ethereum.jpg"
+      },
+      "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+        "name": "USD Coin",
+        "decimals": 6,
+        "symbol": "USDC"
+      },
+      "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+        "name": "Tether USD",
+        "decimals": 6,
+        "symbol": "USDT"
+      },
+      "0xae7ab96520de3a18e5e111b5eaab095312d7fe84": {
+        "name": "Lido Staked Ether",
+        "decimals": 18,
+        "symbol": "stETH",
+        "protocolSlug": "lido"
+      },
+      "0x5a98fcbea516cf06857215779fd812ca3bef1b32": {
+        "name": "Lido DAO Token",
+        "decimals": 18,
+        "symbol": "LDO",
+        "protocolSlug": "lido"
+      },
+      "0x514910771af9ca656af840dff83e8264ecf986ca": {
+        "name": "ChainLink Token",
+        "decimals": 18,
+        "symbol": "LINK",
+        "protocolSlug": "chainlink"
+      },
+      "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+        "name": "Wrapped BTC",
+        "decimals": 8,
+        "symbol": "WBTC"
+      },
+      "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9": {
+        "name": "Aave",
+        "decimals": 18,
+        "symbol": "AAVE",
+        "protocolSlug": "aave"
+      }
+    }
+  }
+}
