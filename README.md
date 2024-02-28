@@ -1,8 +1,7 @@
 # 0xTheta (Project Theta)
 
 ## About
-**0xTheta** is a Discord bot focused on the ability to monitor, track, and notify users of events in the Ethereum
-ecosystem ranging from mainnet to L2s to sidechains.
+**0xTheta** is a portfolio/wallet tracking Discord bot delivering open-sourced and transparent data across different networks.
 
 ## Features
 - Monitoring of Ethereum addresses across supported networks
